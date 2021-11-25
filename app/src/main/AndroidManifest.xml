@@ -10,16 +10,16 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Triple_kill_5">
         <activity
-            android:name=".activityAbout"
+            android:name=".AboutActivity"
             android:exported="true" />
         <activity
-            android:name=".activity3"
+            android:name=".Activity3"
             android:exported="true" />
         <activity
-            android:name=".activity2"
+            android:name=".Activity2"
             android:exported="true" />
         <activity
-            android:name=".activity1"
+            android:name=".Activity1"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
